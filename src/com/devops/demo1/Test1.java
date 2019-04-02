@@ -5,7 +5,8 @@ public class Test1 {
 	public static void main(String[] args) {
 		
 		System.out.println("THis is : Test1");
-		System.out.println("THis is : Test1 before conflict");
+
+		System.out.println("Conflict resolved");
 
 	}
 
